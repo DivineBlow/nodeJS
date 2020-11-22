@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Sebi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Lupu S.",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -13,6 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/DivineBlow/nodeJS.git"
 	}
 }
